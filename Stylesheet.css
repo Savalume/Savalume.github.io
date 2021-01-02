@@ -1,10 +1,5 @@
 body{
-  color: white;
   background-image: url("img/world.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  font-family: 'Notable', sans-serif;
-  text-align: center;
 
 }
 .nav{
